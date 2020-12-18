@@ -1,0 +1,3 @@
+/home/shreyash/Desktop/DSA-CS/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shreyash/Desktop/DSA-CS/C/cmake-build-debug/CMakeFiles/C.dir
+/home/shreyash/Desktop/DSA-CS/C/cmake-build-debug/CMakeFiles/edit_cache.dir

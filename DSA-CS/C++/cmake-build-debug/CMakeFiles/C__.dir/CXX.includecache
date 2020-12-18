@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shreyash/Desktop/DSA-CS/C++/main.cpp
+iostream
+-
+singly-linked-list.cpp
+/home/shreyash/Desktop/DSA-CS/C++/singly-linked-list.cpp
+
+/home/shreyash/Desktop/DSA-CS/C++/singly-linked-list.cpp
+iostream
+-
+
